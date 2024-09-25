@@ -11,6 +11,6 @@ while running:
         print ("Well done, that is right!!")
         running = False
     elif guess < n:
-        print ("Try a bigger numbe")
+        print ("Try a bigger number")
     else:
         print ("Try a smaller number")
